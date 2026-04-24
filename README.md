@@ -103,7 +103,7 @@ The Baby Monitoring System uses an **Arduino Uno** as its central processing uni
 
 ### Figure 1 — LCD Displaying Temperature
 
-![LCD displaying temperature reading](images/s3.jpg)
+![LCD displaying temperature reading](images/s3.jpeg)
 
 *The LCD shows the current room temperature. If it exceeds 34°C, the second line changes to "High Temp!" and the buzzer sounds.*
 
@@ -111,7 +111,7 @@ The Baby Monitoring System uses an **Arduino Uno** as its central processing uni
 
 ### Figure 2 — Night Light Triggered by Darkness
 
-![Night light activated when room turns dark](images/s1.jpg)
+![Night light activated when room turns dark](images/s1.jpeg)
 
 *When the LDR detects low ambient light (night/dark room), the system automatically activates the night light on Pin 13.*
 
@@ -119,7 +119,7 @@ The Baby Monitoring System uses an **Arduino Uno** as its central processing uni
 
 ### Figure 3 — Motion Detection via IR Sensor
 
-![IR sensor detecting baby motion](images/s2.jpg)
+![IR sensor detecting baby motion](images/s2.jpeg)
 
 *When the IR sensor detects the baby moving, the LCD displays "Baby Moving!" and the buzzer triggers to alert the caregiver.*
 
